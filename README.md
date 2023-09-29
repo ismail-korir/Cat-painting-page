@@ -6,12 +6,8 @@ A creative and interactive web page for cat paint, built using HTML5 and CSS3.
 ## Table of Contents
 
 - [About](#about)
-- [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 
